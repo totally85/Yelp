@@ -35,7 +35,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="F39-NI-XiL">
-                                                    <rect key="frame" x="81" y="43" width="83" height="15"/>
+                                                    <rect key="frame" x="81" y="34" width="83" height="15"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" constant="83" id="IE1-0Q-7ta"/>
                                                         <constraint firstAttribute="height" constant="15" id="hLW-id-DRK"/>
@@ -92,7 +92,7 @@
                                                 <constraint firstItem="F39-NI-XiL" firstAttribute="top" secondItem="tLX-X2-eNf" secondAttribute="bottom" constant="8" id="DCD-Jp-gK5"/>
                                                 <constraint firstItem="F39-NI-XiL" firstAttribute="leading" secondItem="TNa-xz-NNJ" secondAttribute="trailing" constant="8" id="H5h-GK-Y35"/>
                                                 <constraint firstItem="nkr-U6-h9F" firstAttribute="top" secondItem="8pA-tL-F3Q" secondAttribute="bottom" constant="4" id="IR4-Oh-TDw"/>
-                                                <constraint firstItem="0vE-jO-zwG" firstAttribute="top" secondItem="8pA-tL-F3Q" secondAttribute="bottom" constant="18" id="JAT-AH-4qT"/>
+                                                <constraint firstItem="0vE-jO-zwG" firstAttribute="top" secondItem="8pA-tL-F3Q" secondAttribute="bottom" constant="37" id="JAT-AH-4qT"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="nkr-U6-h9F" secondAttribute="trailing" constant="8" id="KsM-3g-xmM"/>
                                                 <constraint firstItem="TNa-xz-NNJ" firstAttribute="top" secondItem="HYW-cZ-wdR" secondAttribute="top" constant="14" id="MQl-YI-TPy"/>
                                                 <constraint firstItem="tLX-X2-eNf" firstAttribute="leading" secondItem="TNa-xz-NNJ" secondAttribute="trailing" constant="8" id="Ynn-rV-GMk"/>
